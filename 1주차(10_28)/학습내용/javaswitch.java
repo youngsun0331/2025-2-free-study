@@ -1,5 +1,3 @@
-package class2;
-
 public class javaswitch {
 
     public static void main(String[] args) {
